@@ -1,0 +1,67 @@
+#cantainer{
+    height: 530px;
+}
+.climate {
+    height: 165px;
+    width: 160px;
+        margin-left: 28%;
+
+}
+
+ 
+.temp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 47px;
+    font-weight: 600;
+}
+
+
+.cityname {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
+
+.foot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 70px;
+
+    padding-top: 50px;
+    top:  20px;
+    position: relative;
+    
+    
+}
+
+.hum {
+    
+    height: 40px;
+    width: 45px; 
+}
+.win {
+    
+    height: 40px;
+    width: 45px; 
+}
+.humidity{
+    display: flex;
+    gap: 20px;
+    color: white;
+    font-size: 16px;
+ 
+
+}
+.wind{
+    display: flex;
+    gap: 20px;
+    color: white;
+    font-size: 16px;
+   
+}
